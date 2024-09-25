@@ -1,6 +1,7 @@
 # Handwritten Digit Recognition with a Back-Propagation Network
 
 This repository contains an implementation of a **Convolutional Neural Network (CNN)** for handwritten digit recognition, trained and evaluated on the **MNIST dataset**. The implementation is inspired by the classical **Back-Propagation Neural Network** model as applied to digit recognition.
+https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf
 
 ---
 
